@@ -51,7 +51,7 @@
 
 Функция, която създава map reducer функция за int аргументи с подадени map функция, reduce функция и първоначална стойност initial за reduce функцията.
 
-**func MapReducer(initial int, mapper func(int) int, reducer func(int, int) int) func(...int) int {**
+**func MapReducer(initial int, mapper func(int) int, reducer func(int, int) int) func(...int) int**
 
 #### Пример:
 
