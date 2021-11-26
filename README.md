@@ -1,2 +1,2 @@
-# Introduction-to-GO-tasks
+# Introduction to GO: Tasks
 Homework tasks for the Introduction to Go course @ FMI.
